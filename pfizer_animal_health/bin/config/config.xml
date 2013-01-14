@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program>
+
+	<settings>
+		<timeOut>120</timeOut>
+		<id>1</id>	
+		<showCursor>true</showCursor>
+		<attractFile>media/Attract_final.swf</attractFile>
+		<attractFile2>media/Attract_final_NO TEXT.swf</attractFile2>
+		<attractText>PLEASE TOUCH SCREEN TO BEGIN</attractText>		
+	</settings>
+
+	<sections>
+		<attractLoop />
+		<logIn />
+		<optIn />
+		<mainMenu>	
+			<convenia file="config/convenia.xml" />
+			<revolution file="config/revolution.xml" />
+			<rimadyl file="config/rimadyl.xml" />
+			<bronchicine file="config/bronchicine.xml" />
+			<vanguard file="config/vanguard.xml" />	
+			<dexdomitor file="config/dexdomitor.xml"  bgdCount="3"/>
+			<proheart6 file="config/proheart6.xml" />	
+		</mainMenu>
+		<challenge />
+		<learnMore />
+		<thanks />
+	</sections>
+
+</program>

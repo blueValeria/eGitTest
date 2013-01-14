@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<questions colors="0x004A3F|0xFFFFFF" brandFile="Rimadyl.jpg" piFile="RIMADYL PI.pdf">
+
+	<question id="1" correct="" displayFile="Rimadyl_01.png">			
+			<q>What is the Lowest Effective Dose <br />for RIMADYL<super>®</super>?</q>			
+			<answers buttonStartY="660">
+				<a><36a>RIMADYL has only one FDA approved <br />effective dose: 2mg/lb daily.</36a></a>
+				<a><36a>Start with 1mg/lb twice daily, and then <br />decrease to 1 mg/lb once daily after the first week of treatment.</36a></a>
+				<a><36a>RIMADYL has only one FDA approved <br />effective dose: 1mg/lb daily.</36a></a>					
+				<a><36a>Start with 2 mg/lb once daily, and then <br />decrease to 2 mg/kg every other day after <br />the first week of treatment.</36a></a>					
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+		
+	<question id="2" correct="" displayFile="Rimadyl_02.png">			
+			<q>Clinical studies evaluating the use of NSAIDS to treat canine osteoarthritis have found:<super>1,2,3</super></q>			
+			<answers buttonStartY="540">
+				<a><30a>Dogs typically respond to treatment within the first 30 days, then show no additional improvement, regardless how long they are treated.</30a></a>
+				<a><36a>Dogs treated for 4 or more months show progressive improvement over time.</36a></a>
+				<a><32a>Dogs that are treated at a lower than label dose all respond to treatment and have a lower rate of adverse events than when treated at label dose.</32a></a>			<a><32a>Dogs that are treated at label dose show the most effective control of osteoarthritis<br />without an increase in adverse events.</32a></a>
+				<a><28a>Dogs treated for 4 or more months show progressive improvement over time & dogs that are treated at label dose show the most effective control of osteoarthritis without an increase in adverse events.</28a></a>
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+	
+	<question id="3" correct="" displayFile="Rimadyl_03.png">			
+			<q>What role does inflammation <br />play in osteoarthritis?</q>			
+			<answers buttonStartY="660">
+				<a><36a>Inflammation leads to chronic <br />progressive joint destruction <br />associated with osteoarthritis.</36a></a>
+				<a><36a>Inflammation contributes to the pain <br />associated with osteoarthritis.</36a></a>
+				<a><36a>Inflammation leads to both the chronic progressive joint destruction and painof osteoarthritis.</36a></a>
+				<a><36a>None of the above; inflammation does<br />not contribute to osteoarthritis.</36a></a>
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+	
+	<question id="4" correct="" displayFile="Rimadyl_04.png">			
+			<q>Which of the following is true with regard to chronic or pathologic pain?</q>			
+			<answers buttonStartY="660">
+				<a><36a>Chronic or pathologic pain is a normal or physiological response to any type of<br />tissue injury.</36a></a>
+				<a><36a>Chronic or pathologic pain involves a structural change in pain pathways.</36a></a>
+				<a><36a>Chronic or pathologic pain resolves once the injury that caused the pain resolves.</36a></a>
+				<a><36a>Chronic or pathologic pain occurs if the injury associated with the pain has not <br />resolved after 3-4 weeks.</36a></a>			
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+		
+	<question id="5" correct="" displayFile="Rimadyl_05.png">			
+			<q>The RIMADYL Rewards Program is designed to help veterinarians and dog owners because it:</q>			
+			<answers buttonStartY="540">
+				<a><32a>Rewards dog owners who purchase RIMADYL at the veterinary clinic with reward points which translate to money back.</32a></a>
+				<a><32a>Offers loyalty incentives for in-hospital purchases of RIMADYL and encouraging long-term compliance to help improve dog health.</32a></a>
+				<a><32a>Encourages the dog owner and veterinarian relationship through a reward points system that drives dog owners back to the hospital.</32a></a>					
+				<a><32a>Provides peace of mind to veterinarians<br />because they are able to offer RIMADYL in an affordable way to their patients while ensuring the dog receives the best care.</32a></a>
+				<a><36a>All of the above.</36a></a>					
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+	
+</questions>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<questions colors="0x0053A3|0x0053A3" brandFile="Convenia.jpg" piFile="Convenia_prescribing_information.pdf">
+
+	<question id="1" correct="" displayFile="Convenia_01.png">			
+			<q>What is the most common type of bacteria isolated in pyoderma?</q>			
+			<answers buttonStartY="710">
+				<a50><italics>P. aeruginosa</italics></a50>
+				<a50><italics>E. coli</italics></a50>
+				<a50><italics>S. pseudintermedius</italics></a50>					
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+		
+	<question id="2" correct="" displayFile="Convenia_02.png">			
+			<q>What class of antibiotics is most commonly used to treat bacterial<br />skin infections?</q>			
+			<answers buttonStartY="660">
+				<a50>Sulfonamides</a50>
+				<a50>Lincosamides</a50>
+				<a50>Fluoroquinolones</a50>					
+				<a50>Beta-lactams</a50>	
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+	
+	<question id="3" correct="" displayFile="Convenia_03.swf" >			
+			<q>Beta-lactams are <br />time-dependent antibiotics.</q>			
+			<answers buttonStartY="830">
+				<a50>True</a50>
+				<a50>False</a50>				
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+	
+	<question id="4" correct="" displayFile="Convenia_04.swf">			
+			<q>Which antibiotic ensures 100% compliance for an assured course <br />of therapy?</q>			
+			<answers buttonStartY="840">
+				<a50>Cephalexin</a50>
+				<a50>Convenia<super>®</super></a50>				
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+		
+	<question id="5" correct="" displayFile="Convenia_05.png">			
+			<q>When treating superficial skin <br />infections, which antibiotic <br />optimizes the likelihood of <br />treatment success?</q>			
+			<answers buttonStartY="870">
+				<a50>Convenia<super>®</super></a50>		
+				<a50>Cephalexin</a50>					
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+	
+</questions>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<questions colors="0xF3791F|0xFFFFFF" brandFile="Bronchicine.jpg">
+
+	<question id="1" correct="" displayFile="Bronchicine_01.png">			
+			<q><55a><italics>Bordetella bronchiseptica</italics>, one of the causative agents of Canine Infectious Respiratory Disease (CIRD) or kennel<br />cough syndrome is most closely related<br />to which human bacterial pathogen:</55a></q>			
+			<answers buttonStartY="761">
+				<a><40><italics>Yersinia pestis</italics></40></a>
+				<a><40><italics>Serratia marcescens</italics></40></a>
+				<a><40><italics>Bordetella kissedafella</italics></40></a>	
+				<a><40><italics>Bordetella pertussis</italics></40></a>					
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+		
+	<question id="2" correct="" displayFile="Bronchicine_02.png">			
+			<q><50><italics>Bordetella bronchiseptica</italics> has been shown to<br />be a HUMAN pathogen. The following HUMAN patient populations can be susceptible to infection by Bordetella bronchiseptica, one of the causative agents for Canine Infectious Respiratory Disease (CIRD) also known as kennel cough:</50></q>			
+			<answers buttonStartY="761">
+				<a><40>Werewolves</40></a>
+				<a><40>Mother-in-laws</40></a>
+				<a><36>Anyone from the “Jersey Shore” TV show</36></a>					
+				<a><36a>Cancer patients, cystic fibrosis patients, transplant patients, and HIV patients</36a></a>	
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+	
+	<question id="3" correct="" displayFile="Bronchicine_04.png">			
+			<q><55a>BRONCHICINE CAe<super>®</super>&#160;is the only<br />non-adjuvanted, parenterally administered&#160;<italics>Bordetella bronchiseptica</italics>&#160;vaccine in the US.<br />The CAe stands for:</55a></q>		
+			<answers buttonStartY="735">
+				<a><40>Creative Acronym (at) end</40></a>
+				<a><40>Continuously Active (and) excellent</40></a>				
+				<a><40>Can Administer easily</40></a>
+				<a><40>Cellular Antigen extract</40></a>	
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+
+	<question id="4" correct="" displayFile="Bronchicine_03.png">			
+			<q>Bronchicine CAe has been shown:</q>			
+			<answers buttonStartY="660">
+				<a><40a>To match any outfit – very practical…</40a></a>
+				<a><40a>To work in secret undersea labs</40a></a>				
+				<a><40a>To be friendly with wild-haired California kids</40a></a>
+				<a><40a>To stimulate both mucosal immunity (IgA) AND humoral immunity (IgG)</40a></a>	
+			</answers>			
+			<explanation/>
+			<references/>
+	</question>
+	
+
+</questions>
